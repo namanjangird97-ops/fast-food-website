@@ -1,2 +1,2 @@
 # fast-food-website
-i created a responsive a website vit my website = https://namanfastfoodwebsite.netlify.app/
+A responsive fast-food restaurant website showcasing menu items and layout design. Live Link: https://namanfastfoodwebsite.netlify.app/
